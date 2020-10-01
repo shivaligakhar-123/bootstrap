@@ -90,7 +90,7 @@
   &[disabled],
   &:disabled {
     ~ .form-check-label {
-      opacity: .5;
+      opacity: .75;
     }
   }
 }
